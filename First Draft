@@ -7,10 +7,19 @@
 
 #Current ideas
 #  time series data analysis of leading causes for death in America (opiods)
-#  graphing a given data set and providing basic descriptive statistics like the mean, median, range, and trends in the data i.e. slope and intercept 
-#  want to use dataset from cdc https:
-# Data set: //www.cdc.gov/drugoverdose/data/OD-death-data.html
-https://www.cdc.gov/drugoverdose/databriefs/sudors-1.html#key-findings 
+
+#  want to use dataset from cdc: https://www.cdc.gov/injury/wisqars/LeadingCauses.html#print
+# Data set: 
+General Overdose Data//www.cdc.gov/drugoverdose/data/OD-death-data.html
+Overdose Death Rates Involving Opioids, by Type, United States, 1999-2020:  https://www.cdc.gov/drugoverdose/databriefs/sudors-1.html#key-findings 
 
 #Notes
 IMF -> Illicitly manufactured fentanyl
+
+
+#Goal:
+#I want to persue a time series analysis of opiod deaths in america over the years. Many people die from overdose every day, and coming fro an urban background I have seen the effects
+#of the opiod addictions first hand in Baltimore city and Philadephia. I want to analyze the rates of the opiod percriptiolns over the years in addition to the number of opiod related deaths in America.
+#This analysis will provide key insights of the American population and will high light any trends in the opiod use in America to hopefully encourage the United States government to take more action
+#to assit people in active addiction and prevent future overdoses from occuring. 
+
