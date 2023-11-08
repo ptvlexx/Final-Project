@@ -10,8 +10,8 @@
 
 #  want to use dataset from cdc: https://www.cdc.gov/injury/wisqars/LeadingCauses.html#print
 # Data set: 
-General Overdose Data//www.cdc.gov/drugoverdose/data/OD-death-data.html
-Overdose Death Rates Involving Opioids, by Type, United States, 1999-2020:  https://www.cdc.gov/drugoverdose/databriefs/sudors-1.html#key-findings 
+#General Overdose Data//www.cdc.gov/drugoverdose/data/OD-death-data.html
+#Overdose Death Rates Involving Opioids, by Type, United States, 1999-2020:  https://www.cdc.gov/drugoverdose/databriefs/sudors-1.html#key-findings 
 
 #Notes
 IMF -> Illicitly manufactured fentanyl
