@@ -1,39 +1,43 @@
 # Proposal
+  #ALEXIS STOTLER
+  #11/9/2023
 
 ## What will (likely) be the title of your project?
-
-TODO
+  #The Title of my project will be "The Opiod Crisis in America and How to Help"
 
 ## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
-
-TODO
-
 ## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
-
-TODO
+  #My project will be to create a website that will display an analytical report of the opiod crisis currently affecting the united states.
+  #I will be using Python's Idle to complete my project's wedbsite creation.
+  #If given the appropriate amount of time depending on my progress in the project I wanted to create a program to read in my dataset
+  #and perform statistical operations to help me generate my report. But the website is first on my plate and I hope to get to the 
+  #second part. 
 
 ## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
-
-TODO, if applicable
+  #I would like to combine this final project with the final project I am completeing in my time series course STAT 3504. The analytics 
+  #and visuals, data, and general report will all be done throught the stat project but the website will be the final project for 
+  #this CIS 1051 course because it will be display visuals, key findings, and additional information about the opiod crisis and offer
+  #helpful resources. I STILL NEED TO EMAIL THIS PROF FOR A WRITTEN APPROVAL BUT HE IS OKAY WITH THE PROJECT IN HIS COURSE TO BE 
+  #REWORKED FOR THIS ONE. 
 
 ## If planning to collaborate with 1 or 2 classmates for the final project, list their names, email addresses, and the names of their assigned TAs below.
-
 TODO, if applicable
 
 ## In the world of software, most everything takes longer to implement than you expect. And so it's not uncommon to accomplish less in a fixed amount of time than you hope.
-
 ### In a sentence (or list of features), define a GOOD outcome for your final project. I.e., what WILL you accomplish no matter what?
-
-TODO
+  #A good outcome of my project would be first the website exists and is capable of displaying a homepage with images
+  #and information pertaing to my subject at the very least.
 
 ### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
-
-TODO
+  ##I also want to accomplish the creation of somekind of directory for the webpage to have a homepage, analytical report page, and resorce page. I think I can accomplish
+  #everyhting mentioned above as a good outcome.
 
 ### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
-
-TODO
+  #The best outcome would be a completely functional website that includes all of the features listed in the better outcome in addition
+  #to having a nice aesthetic for the site with potentially interactive features like a chart that has clickable points of interest
+  #that the site vistor can use. 
 
 ## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
-
-TODO
+  #My next step for my project would be to first start a program called Final Project. Then I want to research Python website creation 
+  #resources online like a YouTube video or article for a basic tutorial. Then I hope to move towards actually starting my Python 
+  #script with some basic website features like a title and maybe one picture. 
